@@ -52,8 +52,8 @@ for i in range(시작,끝,중간):
 #         minus+=i
 # print(sum-minus)
 
-sum=1
-for i in range(1,21):
-    if i%7==0:
-        sum*=i
-print(sum)
+# sum=1
+# for i in range(1,21):
+#     if i%7==0:
+#         sum*=i
+# print(sum)
