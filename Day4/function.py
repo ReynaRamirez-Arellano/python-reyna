@@ -16,23 +16,50 @@ def 함수이름(입력):
     실행할 코드 작성
     return 출력
 '''
-def 하율():
-    print("하율이")
-하율()
-하율()
-하율()
+# def 하율():
+#     print("하율이")
+# 하율()
+# 하율()
+# 하율()
 
-def 유래(몇번):
-    for i in range(몇번):
-        print("나는 유래")
+# def 유래(몇번):
+#     for i in range(몇번):
+#         print("나는 유래")
 
-유래(3)
-유래(7)
+# 유래(3)
+# 유래(7)
 
-def 서현(입력):
-    for i in range(입력):
-        print("나는 서현")
-    return i
-print(서현(5))
-결과=서현(7)
-print(결과)
+# def 서현(입력):
+#     for i in range(입력):
+#         print("나는 서현")
+#     return i
+# print(서현(5))
+# 결과=서현(7)
+# print(결과)
+#Q1."python 함수 배웠어"곱하기 5출력
+# def 함수(입력):
+#     for i in range(입력):
+#         print("python 함수 배웠어")
+# 함수(5)
+#Q2.두 수의 입력을 받아 곱한 결과를 출력하는 함수 만들기
+# def 곱하기(입력,력입):
+#     return 입력*력입
+# print (곱하기(2,3))
+# 결과=곱하기(10,20)
+# print(결과)
+#Q3
+# def 삼각형(입력,력입):
+#     return 입력*력입/2
+# print (삼각형(10,5))
+# 결과=삼각형(6,8)
+# print(결과)
+#Q4
+# def 구구단(입력):
+#     for i in range(1,10):
+#         print (입력*i)
+# 구구단(3)
+# 구구단(7)
+'''
+홀수(5)
+홀수(6)
+'''
