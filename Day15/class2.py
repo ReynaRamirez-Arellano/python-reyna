@@ -43,11 +43,11 @@ class 연산:
     def 빼기(self):
         결과=self.첫번째수-self.두번째수
         return 결과
-    def 곱하기(self):
-        결과=self.첫번째수*self.두번째수
-        return 결과
     def 나누기(self):
         결과=self.첫번째수/self.두번째수
+        return 결과
+    def 곱하기(self):
+        결과=self.첫번째수*self.두번째수
         return 결과
 사칙연산=연산(3,5)
 
